@@ -1,2 +1,3 @@
-# cop_3350
+# COP 3350 
+
 Repository containing work from COP-3350 (Sys. Adm. &amp; Programming) 
