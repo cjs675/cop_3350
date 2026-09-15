@@ -1,0 +1,38 @@
+# === macOS Host Artifacts ===
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# === System Administration & RHEL Logs ===
+*.log
+*.swp
+*~
+*.bak
+*.tmp
+/mnt/
+/media/
+
+# === SSH & Security Credentials ===
+.ssh/
+*.pem
+*.pub
+*.key
+id_rsa
+id_ecdsa
+id_ed25519
+
+# === VM & Environment Artifacts ===
+.vagrant/
+*.vmware*
+*.vmdk
+*.vdi
+*.iso
+*.img
+
+# === Text Editor / IDE Metadata ===
+.vscode/
+.idea/
+.viminfo
